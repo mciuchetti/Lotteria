@@ -10,6 +10,7 @@ import java.util.Random;
 /**
  *
  * @author monica ciuchetti
+ * @version 1.0
  */
 public class Estrazione extends Thread {
     // attributi
